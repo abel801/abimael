@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abimael Riveros Carpio</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Jul 2016 09:22:02 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Jul 2016 09:22:02 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Feb 2016 10:31:17 -0500</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/02/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/12/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>¿Qué es Jekyll?</title>
+        <description>&lt;p&gt;Jekyll es un generador de sitio estático simple, “blog aware”. Pero, ¿qué significa esto exactamente? Un generador de sitio estático es un programa que toma un conjunto de archivos y genera su sitio con ellos. Capaces de utilizar un conjunto de plantillas, crear los archivos de contenido por separado, y luego usar Jekyll para generar nuestro sitio. La parte del “blog aware” significa que podemos usar este para crear un blog o cualquier sitio web que contenga una serie de entradas de posts ,tales como un portafolio. Se necesita un directorio de plantillas que contenga archivos de texto  en diversos formatos, que se ejecutan a través de Markdown (o textil) y convertidores “liquid”, y como resultado tendremos un completo sitio web estatico, listo para publicar y adecuado para servir con el servidor web favorito.&lt;/p&gt;
+
+&lt;p&gt;Jekyll también resulta ser el motor de Páginas GitHub, lo que significa que puede utilizar Jekyll para alojar la página de su proyecto, blog, o sitio web de manera gratuita.&lt;/p&gt;
+
+&lt;h2 id=&quot;qu-es-github&quot;&gt;¿Qué es Github?&lt;/h2&gt;
+&lt;p&gt;Es un servicio de alojamiento basado en la web para proyectos de desarrollo de software que utilizan el sistema de control de versiones Git. GitHub ofrece  planes pagados por depósitos privados y cuentas gratuitas para los proyectos de código abierto.&lt;/p&gt;
+
+&lt;p&gt;En mayo de 2011, GitHub fue el sitio de repositorios más popular para los proyectos de código abierto. El sitio ofrece la funcionalidad de redes sociales tales como feeds, seguidores y la red gráfico social para mostrar cómo los desarrolladores trabajan en sus versiones de un repositorio.&lt;/p&gt;
+
+&lt;p&gt;En enero de 2010, GitHub es operado bajo el nombre de GitHub, Inc. El software que  ejecuta GitHub fue escrito usando Ruby on Rails y Erlang  por GitHub, Inc. (anteriormente conocido como Logical Awesome) desarrollado por Chris Wanstrath,  PJ Hyett y Tom Preston-Werner.&lt;/p&gt;
+
+&lt;p&gt;Hasta la fecha, GitHub alojó mas de 8,1 millones de “repositorios”, o proyectos que los programadores pueden colaborar. GitHub,  tiene su sede en San Francisco y ya cuenta con más de 4,1 millones de usuarios (frente a 1 millón de hace dos años), ofrece software gratuito para Windows, Mac y Linux, donde los usuarios también pueden compartir pequeños fragmentos de código llamadas “Gists” a través de la página web GitHub.com., mientras que los proyectos públicos pueden ser compartidos en línea de manera gratuita. los códigos de alojamiento privado  de código comienza desde $ 7 por mes de acuerdo a los requerimientos del cliente.&lt;/p&gt;
+
+&lt;p&gt;La codificación puede ser intimidante para los nuevos en ella, por eso GitHub ofrece algunos tutoriales muy fácil de usar, configurar  y empezar y una red social integrada que fomenta la colaboración y el intercambio de código.&lt;/p&gt;
+
+&lt;h2 id=&quot;sistema-de-control-de-versiones-scvs&quot;&gt;Sistema de Control de Versiones (SCVs)&lt;/h2&gt;
+
+&lt;p&gt;¿Qué es un sistema de control de versiones?, es un sistema que registra los cambios realizados de una carpeta o conjunto de carpetas a lo largo del tiempo, de manera que es posible recuperar versiones especificas de los cambios realizados cuando lo requieras, cualquier tipo de carpetas o documentos pueden someterse a este sistema de control de versiones.&lt;/p&gt;
+
+&lt;h2 id=&quot;sistema-de-control-de-versiones-centralizado-cvss&quot;&gt;Sistema de Control de Versiones Centralizado (CVSs)&lt;/h2&gt;
+&lt;p&gt;El Sistema de Control de versiones centralizado fue desarrollado motivado por la necesidad de colaborar  con desarrolladores  de otros sistemas. Entonces se creó el Control de Versiones Centralizado(CVCSs). Estos sistemas tales como Subversion, Perforce y otros, se caracterizan por tener un único servidor que contiene todas las versiones de todas las carpetas, y un numero de clientes que verifican las carpetas del lugar central.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, este sistema tuvo una seria desventaja, el más importante fue: (1) Que cualquier problema que presentaba el servidor central ninguno podía colaborar ni guardar cambios.(2) Si el disco duro de la central de base de datos sufría algún desperfecto ningún backups podía ser guardado. Es decir, se perdía todo, excepto los snapshots que los usuarios guardaban en sus computadoras.&lt;/p&gt;
+
+&lt;h2 id=&quot;sistema-de-control-de-versiones-distribuido-dvcss&quot;&gt;Sistema de Control de Versiones Distribuido (DVCSs)&lt;/h2&gt;
+
+&lt;p&gt;En éstos sistemas como: Git, Mercurial, Bazzar o Darcs; los clientes no solo pueden verificar los últimos snapshots de los directorios, sino que pueden verificar todo el repositorio, y si el servidor colapsa y estuvieron colaborando por este sistema, cualquiera de los repositorios clientes pueden ser copiados al servidor para restaurarlos.&lt;/p&gt;
+
+&lt;h2 id=&quot;acerca-de-git&quot;&gt;Acerca de Git&lt;/h2&gt;
+
+&lt;p&gt;El 2005, la relación entre la comunidad de desarrolladores del Kernel de Linux y la compañía comercial que desarrollaba BitKeeper se quebró. Esto motivó a la comunidad de desarrolladores de Linux (en particular a Linus Torvalds, el creador de Linux) a desarrollar sus propias herramientas basado en sus propias experiencias adquiridas durante el uso del Sistema de Control de Versiones Bitkeeper.&lt;/p&gt;
+
+&lt;p&gt;Algunos de los objetivos de éste nuevo sistema fueron:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Velocidad&lt;/li&gt;
+  &lt;li&gt;Diseño simple&lt;/li&gt;
+  &lt;li&gt;Desarrollo no lineal (cientos de ramas paralelas)&lt;/li&gt;
+  &lt;li&gt;Ampliamente distribuido&lt;/li&gt;
+  &lt;li&gt;Capaz de manipular grandes proyectos como el Kernel de Linux eficientemente (velocidad y tamaño de dato)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde su nacimiento en el 2005, el sistema de control de versiones distribuido Git se ha desarrollado y madurado como un sistema de uso fácil y sigue manteniendo sus cualidades iniciales como son: rapidez, eficiencia en el trabajo con grandes proyectos y su gran sistema de ramificaciones no lineales.&lt;/p&gt;
+
+&lt;h2 id=&quot;aspectos-bsicos-de-git&quot;&gt;Aspectos Básicos de Git&lt;/h2&gt;
+
+&lt;h2 id=&quot;casi-toda-las-operaciones-son-locales&quot;&gt;Casi toda las operaciones son locales&lt;/h2&gt;
+
+&lt;p&gt;Muchas operaciones en Git solo necesitan recursos y carpetas locales para operar,generalmente no se necesita ninguna información de ninguna otra computadora o red debido a que toda la historia del proyecto se encuentra en tu disco local. Por ejemplo sí estas en el avión o en un lugar o en un lugar donde no hay conexión a la red usted puede seguir contribuyendo hasta que la red se restablezca y puedas cargar. En muchos otros sistemas como Perforce, Subversion, CVS esto era difícil o casi imposible.&lt;/p&gt;
+
+&lt;h2 id=&quot;git-posee-integridad&quot;&gt;Git posee integridad&lt;/h2&gt;
+
+&lt;p&gt;En Git todo es etiquetado antes de ser guardado a ésta, esto quiere decir que es imposible cambiar el contenido de alguna carpeta sin que Git lo advierta o no se puede perder información en el camino o tener un problema en la carpeta sin que Git pueda advertirlo.&lt;/p&gt;
+
+&lt;h2 id=&quot;generalmente-git-solo-aumenta-datos&quot;&gt;Generalmente Git solo aumenta datos&lt;/h2&gt;
+
+&lt;p&gt;Cuando realizas acciones en Git, casi todos ellos solo aumentan datos a la base de datos de Git. Estos datos pueden ser borrados siempre en cuando no haya sido guardado todavía (commited) pero después que haya sido guardado, es muy difícil que se pierda especialmente si mandaste tus datos a otro repositorio. Esto hace que trabajar con Git sea un placer, porque podemos experimentar sin el riesgo de estropear las cosas.&lt;/p&gt;
+
+&lt;h2 id=&quot;las-tres-etapas-de-git&quot;&gt;Las tres etapas de Git&lt;/h2&gt;
+
+&lt;p&gt;Git tiene tres etapas en donde residen tus carpetas y estas son:
+Commited, Modified y Staged. Commited significa que los datos son guardados en tu base de datos local; Modified significa que has modificado la carpeta pero no fue guardado en tu base de datos local y Staged significa que has marcado documento modificado en tu versión actual para modificar en tu base de datos.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Sep 2013 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2013/09/26/jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2013/09/26/jekyll.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
